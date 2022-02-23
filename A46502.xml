@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from N.J. to E.T. Esq., his representative in Parliament</title>
+            <author>N. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46502</idno>
+            <idno type="STC">Wing J23</idno>
+            <idno type="STC">ESTC R15519</idno>
+            <idno type="EEBO-CITATION">12209387</idno>
+            <idno type="OCLC">ocm 12209387</idno>
+            <idno type="VID">56228</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56228)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 765:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from N.J. to E.T. Esq., his representative in Parliament</title>
+                  <author>N. J.</author>
+                  <author>E. T.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Internal revenue --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:56228:1"/>
+            <head>A Letter from <hi>N. J.</hi> to <hi>E. T.</hi> 
+               <abbr>Eſq</abbr> his Repreſentative in Parliament.</head>
+            <p>AT your requeſt, I give you, Sir, my haſty thoughts upon your Propoſals; not only as knowing that I have neither leiſure nor ability, but that I am under no neceſſity of dreſſing nor improving them: Truth is ſelf-evident, and car<g ref="char:EOLhyphen"/>ries with it a Natural Eloquence, in perſwading or convincing its Ad<g ref="char:EOLhyphen"/>verſaries; and if it needs any aſſiſtance, it is ſecure of a good Advocate, when under your Protection.</p>
+            <p>The Nation is now in ſuch a <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>tion, as requires all your care; in a deſperate <hi>Criſis</hi> Men are wont to be eaſily perſwaded to any appea<g ref="char:EOLhyphen"/>rance of remedy: And I know you are one of thoſe who would pro<g ref="char:EOLhyphen"/>poſe; and I doubt not that the Liberty of all <hi>Engliſh</hi>-men is <hi>now</hi> ſo well ſecured, that you in your Station may offer any thing for its relief, without the danger that the <hi>Locrian Senators</hi> were Subject to, of pro<g ref="char:EOLhyphen"/>poſing a Law with an Halter about their Necks.</p>
+            <p>The chief Buſineſs that Parliaments in the late Reigns were Sum<g ref="char:EOLhyphen"/>mon'd for, was <hi>Money,</hi> and though <hi>Now undoubtedly,</hi> the Welfare of the Nation is the Chief Deſign of your Meeting, yet that little old circumſtance of Taxes, will, even in this Seſſion, imploy ſome of your ſpare Hours, when other weightier Affairs give you leave for it. That <hi>Money</hi> muſt be raiſed, you eaſily take for granted; and ſeem not to doubt of a more material Queſtion, That there is <hi>Money</hi> in the Nation to be raiſed: And ſince theſe two are not put upon me, I am not fond of the Office of proving either of them, but ſhall proceed to the great Subject of your Enquiry, How it is to be Aſſeſſed, and what's the beſt and eaſieſt Method of rating the Subject in this juncture; and ſo far I agree with you, That when a Doſe is very unpleaſant and of<g ref="char:EOLhyphen"/>ten repeated, there is need of skill in making it any ways pallatable to the Patient.</p>
+            <p>
+               <pb n="2" facs="tcp:56228:2"/>It is ſaid, That Land cannot maintain a farther Supply; That the Gentry of <hi>England</hi> have already paid more than they can well bear; That the Intereſt of many Mortgages is behind, their Tenants Inſolvent, and their Eſtates of little other uſe to them, than that they entitle them to Expences proportionable rather to the reputed value than the pro<g ref="char:EOLhyphen"/>duct of them.</p>
+            <p>As to Trade, The Cuſtoms ſeem high enough already; and yet, though ſuch, our Merchants would willingly pay, if their Effects could come home to the Quey. Their Complaint is, they do not pay the Cuſtoms of all their Goods, for more are carried into the Ports of <hi>France</hi> than brought home; and that our Traffick is for the <hi>Advantage</hi> of <hi>France,</hi> though all Trade with it is prohibited.</p>
+            <p>It may be as hard to deny the Truth of theſe matters, as it is eaſie to confute the inference that is drawn from them. That the only Expe<g ref="char:EOLhyphen"/>dient now left is a Home Exciſe, as a Tax that relieves the Gentry, and lays it ſelf equally on the whole Nation, and makes the Burden as extenſive and univerſal as the benefit that ariſes from it.</p>
+            <p>I muſt confeſs, that the Notion is plauſible, and (as new and untry'd) hath at preſent many Advocates; and though it is very Natural for Men, that are under a Diſtemper, to court not only a Remedy but a Change; yet it ought to be conſidered, that Feaveriſh Perſons are of<g ref="char:EOLhyphen"/>ten reſtleſs, without relief; and that when the Motion is violent from one place to another, that which was deſigned to cure the pain, only en<g ref="char:EOLhyphen"/>creaſes the heat.</p>
+            <p>What therefore is to be proved, is, That this double Poyſon is no Antidote, That the Tax will ſtill reſt as heavy on Land, and will give our Gentry no other eaſe, than as it communicates the Load to others, but does not divide it: For is it not evident to any conſidering Perſon, That either the Country muſt eat as much after this Starving Act as be<g ref="char:EOLhyphen"/>fore it, or muſt upon it betake themſelves to Roots and Pottage, and undergo the Diſcipline of Foreign Frugality?</p>
+            <p>If their manner of Living be the ſame, and withal (as it neceſſarily muſt be) more chargeable, then Wages muſt encreaſe proportionable to Expences, and the Gentry will only pay as much more to the Work-men and Hirelings, as leſs to the Government: And if after this Act, Labourers will be ſo Loyal as to Dyet themſelves with leſs Bread and Beef than formerly, then the Vent of Commodities of our own growth muſt ſink, and the Gentry's Disburſements will only ſo much decreaſe, as their Receipts abate; and if it be granted, that our Gentry, and their Tenants, will not be the only Sharers in this publick Impoſition; but that common Artificers and ordinary Tradeſmen, who neither have Land, nor are concerned for the improvement of it, muſt bear their
+<pb n="3" facs="tcp:56228:2"/>
+proportion; yet ſtill as theſe Men's Charges encreaſe, the Price of their Work muſt be raiſed; and the only alteration will be, That our Gentry muſt pay that to the Shop, which they deduct from the Ex<g ref="char:EOLhyphen"/>chequer; or rather will make Tradeſmen their Receivers, to carry their Money to the Treaſury.</p>
+            <p>And here will be this farther unhappineſs too, That Men, who thus bleed to Death by a gradual and inſenſible loſs of their Wealth, will be leſs admoniſhed to retrench their Expences, than if a groſs Summ ſhould give them a Quarterly remembrance of the ſtated and ſettled Taxes.</p>
+            <p>If then a Home Exciſe be, upon theſe Reaſons, Relief only in Shadow and Appearance; I am ſure, upon many other Accounts, it is a Miſchief in reality and Subſtance; for not only our Stalls and our Markets will be viewed, but our Kitchens ſurveyed, our Ovens ſearched, and our Hen-rooſts ranſack'd; each Town muſt contain a Herd of Collectors and Aſſeſſors, who ſhall be Witneſſes of our Entertainments, and Spyes upon our Hoſpitality.</p>
+            <p>What have we and our Anceſtors been contending for, ſince the Con<g ref="char:EOLhyphen"/>queſt? Why have our Heroes ſuffered Impriſonment, Baniſhment, and Death, to entail upon their Families the Freedom of Eating, at leaſt, without danger of an Exciſe Man.</p>
+            <p>When our Smoak was to be Taxed, we could ſtill live without Fire; when our Beer was Exciſed, we had Water free; but an Impoſition on Victuals is as ſcandalous as that of <hi>Veſpaſian</hi> upon Urine, and falls upon the common and indiſpenſable Neceſſities of Life.</p>
+            <p>I would willingly know, what, in their time, <hi>Selden, Cotton,</hi> and <hi>Rawley</hi> would have thought of theſe Propoſals? And if probably they would have ventured their Lives in oppoſition to ſuch a perpetual Badge of Slavery: Is it reaſonable that we ſhould willingly chooſe in the <hi>beſt</hi> of Reigns, what would not have been born in the <hi>worſt?</hi>
+            </p>
+            <p>Shall we free our ſelves from our Original dependance on Kings, and the Antient Bonds of our Conſtitution; and afterwards bore our own Ears, and voluntarily ſubmit to the Tyranny of Exciſe-Men?</p>
+            <p>In ſhort, Sir, there is no need of nice Senſe and Application, to ap<g ref="char:EOLhyphen"/>prehend what I think hath been ſeen and laid down by all Politicians whatſoever, that Taxes ought, Firſt rather, to be laid upon Luxury than Neceſſity; and, Secondly, rather on things of Foreign than Domeſtick growth.</p>
+            <p>And ſince it is the happineſs of this Iſland, that all thoſe Wares, which are imported from abroad, conduce only for our Eaſe, not our Support; and all our Domeſtick Commodities, are neceſſary to our Being, or well being: It follows, that the two Rules, laid down be<g ref="char:EOLhyphen"/>fore,
+<pb n="4" facs="tcp:56228:3"/>
+do in this Nation fall into one, and carry only a double reaſon with them for one and the ſame Action.</p>
+            <p>
+               <hi>Money</hi> being undoubtedly the meaſure of Wealth, it is therefore clear, there is nothing can immediately improve the Riches of the Na<g ref="char:EOLhyphen"/>tion, but what encreaſes the Coin of it: Now our Iron, Tin, Corn, Wool, Leather, and other the intrinſick Commodities of this Nation, add ſo much to our Riches as the outward Trade over-ballances the inward, and no more; and the cheaper the Exports of this Nation can be ſold, the Vent is the quicker, and the Trade more certain. This is ſo plain a Propoſition, that it may be proved by a thouſand obvious In<g ref="char:EOLhyphen"/>ſtances, which need not be mentioned, ſince the truth of it depends on this Axiome, <hi>That a Trading Nation, that ſells more than it buys, is a Gainer, and that buys more than it ſells, is a Loſer.</hi>
+            </p>
+            <p>Now can there be a greater ſtupidity in any Nation, than to lay a Tax on the Manufactures of our own Product, and in a time when we have need of the greateſt ſupport, to Seeth the Kid in its Mother's Milk, and Prey upon our Subſiſtance?</p>
+            <p>Moſt of our Ancient wholeſome Laws were made for the improve<g ref="char:EOLhyphen"/>ment of Domeſtick Manufactures; many Corporations, that <hi>Now</hi> re<g ref="char:EOLhyphen"/>tain nothing of their former Wealth and Grandeur, but their Mace and Gowns, the Signs or rather Shadows of their Ancient Riches, were e<g ref="char:EOLhyphen"/>rected for that End, and flouriſhed by it: And if in the late Reigns, the neglect or diſ-encouragement of Home-Trade expoſed it to decay, there is nothing wanting, but this laſt fatal Blow, to ſubject it to ruin.</p>
+            <p>If, Sir, there was no other Reaſon againſt a Home-Exciſe, this would be a ſtrong one with me, <hi>That it defeats all the great and ſignal Bleſſings which this Moſt Happy Reign has brought upon us;</hi> for Liberty is an excel<g ref="char:EOLhyphen"/>lent thing when joyn'd with Property; but is a ſound only, and a very Metaphyſical and a Speculative Happineſs without it. The outmoſt Nations of the North, have always been the freeſt People in the World, as thoſe which could not allure or ſupport a Tyrant; and therefore con<g ref="char:EOLhyphen"/>ſtantly enjoyed a Liberty of acting and ſtarving as they pleaſed. Li<g ref="char:EOLhyphen"/>berty is that which ſecures our Property, and the one is no more worth after the loſs of the other, than the preſervation of the Caſe, after the Shipwrack of the Jewel; and we may eaſily bid adieu to the Proſperity of the Nation, when a Tax is once eſtabliſh'd upon that which at firſt created its Wealth, and at preſent ſupports it; and however Legal the Proceedings, and however Mild the Methods in it may be, it is certainly the ſame thing, when the Vitals are endangered, whether they are vio<g ref="char:EOLhyphen"/>lently devoured or gently conſumed; whether the Radical Moiſture be at once exhauſted, or gradually ſuck'd out.</p>
+            <p>
+               <pb n="5" facs="tcp:56228:3"/>Much more, Sir, might be ſaid againſt the Home-Exciſe, if I did not haſten to anſwer what is pleaded for it; and that is, <hi>Neceſſity;</hi> a Word that has no Law, and ſilences all Reaſon: And it is to be ob<g ref="char:EOLhyphen"/>ſerved, That the ſame Word was guilty of Ship-money in <hi>Charles</hi> the Firſt's Reign, and a Diſpenſing Power in King <hi>James</hi> the Second's Time, which is brought to introduce a Home-Exciſe in the moſt proſperous and moſt glorious Reign of his preſent moſt gracious Majeſty.</p>
+            <p>I muſt confeſs therefore I have no great reſpect for <hi>Neceſſity,</hi> as that which has occaſioned very hard things, when true and real, and many ill things, when falſe and pretended. But ſince this is a violent Storm, of the Conſequences of which we judge better at a diſtance, let us a little examine the Neceſſity in the late Times, by which we may the better judge of it for the future.</p>
+            <p>Was it of <hi>Neceſſity,</hi> that <hi>Engliſh</hi>-men ſhould be diſgraced, and turned out of their Employments, and Foreigners, <hi>French, Iriſh,</hi> and others put in their Places? Was not this accounted a plain Demon<g ref="char:EOLhyphen"/>ſtration, That the <hi>Engliſh</hi> ſhould not be truſted? And where there is no Confidence, there is the leſs Obligation.</p>
+            <p>Was it of <hi>Neceſſity,</hi> That a mean-born, haughty, paraſitical, de<g ref="char:EOLhyphen"/>ſigning Black-coat, the <hi>then</hi> Famed <hi>Father Petre</hi>'s, I mean, ſhould ma<g ref="char:EOLhyphen"/>nage Affairs of State, over-rule our Ancient Nobility, oppreſs the Famous Univerſities, and Favour all thoſe that acted againſt them, patronize all the Schiſmaticks and Sectaries, bring our worthy and venerable Prelates to ruine for adhering to the Law of the Land, and the Dictates of their Conſcience, and ſeize upon their Revenues him<g ref="char:EOLhyphen"/>ſelf (contrary to the known Law of the Kingdom) enjoying thoſe of the <hi>Arch-Biſhoprick</hi> of <hi>York,</hi> and perſuade the King, That he could reconcile his Subjects to him, who was himſelf the greateſt Cauſe of Grievance, and the very Nuſance of the Kingdom?</p>
+            <p>Was it of <hi>Neceſſity,</hi> That the Hereditary Revenues of our Nation ſhould be exhauſted in Penſions to flattering Minions, and Men gene<g ref="char:EOLhyphen"/>rally of no Sence, but always of no Principle?</p>
+            <p>Was it of <hi>Neceſſity,</hi> That Parliament-Men ſhould be bribed to be<g ref="char:EOLhyphen"/>tray their Countrey, and ſecurely lay a Tax upon our Nation, in which their Poverty exempts them from being Sharers?</p>
+            <p>Was it of <hi>Neceſſity,</hi> That the Ancient Church of <hi>England,</hi> which had as good a Right to its Revenues as the King to his Crown, ſhould be ſubjected to Men of no Mercy, Honour or Truth, who never did nor will do a good Act, unleſs in betraying their unjuſt Bene<g ref="char:EOLhyphen"/>factors?</p>
+            <p>If this was <hi>Neceſſity,</hi> I have another Quarrel to it, as that which takes different Shapes and Appearances, and is at the ſame time as
+<pb n="6" facs="tcp:56228:4" rendition="simple:additions"/>
+evident at Court as an Earthquake, or Inundation; but as inviſible in the Countrey as Money after a Tax. Now a Publick <hi>Neceſſity</hi> unſeen, is the ſame thing as an unperceivable Whirldwind, as Thun<g ref="char:EOLhyphen"/>der that cannot be heard, and a Tempeſt that cannot be felt. It was nicely diſtinguiſh'd by a Judge in the Caſe of Ship money, That there is a <hi>Neceſſity</hi> of preventing a <hi>Neceſſity;</hi> and by the ſame Rule, there is a <hi>Neceſſity</hi> of preventing that <hi>Neceſſity,</hi> that may bring on <hi>Neceſſity.</hi> But if the Matter ſhould prove that there is little <hi>Neceſſity</hi> of giving, and a greter <hi>Neceſſity</hi> of keeping the little we have, and the greateſt of all of not giving what we have not; then I ſuppoſe that one <hi>Neceſſity</hi> may ballance another, and ſo <hi>Neceſſity</hi> may be wholly out of the Caſe.</p>
+            <p>Now to bring the Matter home to our preſent Circumſtances, there is a <hi>Neceſſity</hi> of keeping a Navy; for without it, we export nothing of our own Growth, and bring in no Money in lieu of it, and get no<g ref="char:EOLhyphen"/>thing as our Neighbours do, by being Carriers to <hi>Europe;</hi> and therefore the Wealth of the Nation cannot increaſe, and conſequently muſt ne<g ref="char:EOLhyphen"/>ceſſarily decay. There is likewiſe a <hi>Neceſſity</hi> of maintaining Men of War, becauſe generally Privateers obſerve no Rules of Property, and oftentimes make no Conſcience of taking other Men's Goods without any Colour of Right; and therefore we ſhould provide a little for a Defence, and not a little for Reprizals: It may not be improbable too, that the <hi>Grand Lewis,</hi> though he hath not ſo good a Title to the Place, may have as much Mind to <hi>England</hi> as we had lately to <hi>France;</hi> and therefore may be as maliciouſly enclined againſt the one, as we are courageouſly bent againſt the other. A Fleet then may be as neceſſary to an Iſland, as Walls to a Town, and the ſtronger the Bulwarks are in this Caſe, the greater the Security; and ſince our Brethren the <hi>Dutch</hi> have not always held the ſame good Correſpondence with us in point of Trade, as now, and have all the Reaſon in Politicks to oppoſe and depreſs us: It is not certain that their good Nature will always prevail above their Intereſt; and that the Friendſhip will be eternal, though cemented by Religion. And therefore ſuch a Fleet as could beat the <hi>French</hi> would do well; but ſuch as could defeat them and the <hi>Dutch</hi> jointly would do much better. And this I profeſs is all the <hi>Neceſſity</hi> I am ſenſible of, as that which com<g ref="char:EOLhyphen"/>prehends all the immediate Dangers we can fall under; and if obviated, leave us ſecure of Safety, at leaſt, if not of Glory.</p>
+            <p>For ſince <hi>Britain</hi> is like another World, encompaſs'd and fortify'd by its Seas, there is no poſſibility of our Ruine as long as our Sove<g ref="char:EOLhyphen"/>reignty of the Ocean is maintained; and there is no end of our Fears as long as that is precarious: The <hi>French</hi> Naval Force is now much leſſened, and that <hi>undoubtedly; <hi>for we are told from</hi>
+               </hi> Lambeth, <hi>our Victory
+<pb n="7" facs="tcp:56228:4"/>
+was the greateſt that ever was obtained ſince the Sun run its Courſe.</hi> And as the <hi>French</hi> were defeated under <hi>Ruſſel,</hi> ſo the <hi>Dutch</hi> ſuffered not a lit<g ref="char:EOLhyphen"/>tle under <hi>Torrington;</hi> and both thoſe Accidents, however different they ſeem in their Nature, may equally contribute to the Advantage of <hi>England.</hi>
+            </p>
+            <p>All that we can dread from the taking of <hi>Flanders,</hi> is, That it is a ſtep to the Conqueſt of <hi>Holland,</hi> and conſequently a great Addition may thereby be made to the Maritime Power of <hi>France;</hi> and till Men have Wings, a very potent, foreign Navy, is the only juſt Cauſe of our Fear from any Invaſion; therefore certainly the lower the Naval Power of both theſe States are, the leſs is our Apprehenſion from each of them ſeverally, or from both of them hereafter jointly: And if the Two and twenty Millions already raiſed, had (as was propoſed by a worthy Member, and one of the moſt ancient and the beſt experienced of your Houſe) been ſpent in our Fleet and Seamen only, I flatter my ſelf that we need not fear the taking of <hi>Charleroy</hi> o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Bruſſels.</hi>
+            </p>
+            <p>If the Nation indeed had plenty of Money, and were at a loſs how to expend it; it is to be own'd, That the Support of the Confederacy, and the Relief of the poor King of <hi>Spain,</hi> would be proper Objects of our Liberality: But ſince all we can ſpare is only ſufficient for our own Security, there can be no ſcruple but it ought wholly to be laid out where the Safety of this Iſland naturally directs and requires the Em<g ref="char:EOLhyphen"/>ployment of it; eſpecially, ſince what is given to the Fleet by a quick Circulation returns into the Nation, and what is laid out on the Confe<g ref="char:EOLhyphen"/>derates is not only ſpent but loſt, unleſs at laſt an Expedient can be con<g ref="char:EOLhyphen"/>trived by Men of very deep Capacity to prevent the Exportation of our Bullion.</p>
+            <p>Seeing the Sea will exhauſt our Treaſure, it is but Reaſon the Sea ſhould ſupply it; and though our Taxes at preſent lie heavy upon the Merchants, yet the greater the Expences are upon Shipping, and the more the Taxes ariſe in proportion to them, the greater will be the Traders Security; and conſequently the Impoſition more eaſie, the Grievance will abate as the Subſidy encreaſes the Sum that will ariſe from taking off the Prohibition of <hi>French</hi> Commodities is incredible. And if the Kingdom of <hi>France</hi> loſes nothing by the Sale, proportionable to what the Nation loſes by the Cuſtoms, and if much Wine be ſtill brought into <hi>England,</hi> and the Carriers of it gain as much as the Pro<g ref="char:EOLhyphen"/>prietor, we cannot reaſonably expect that the Kingdom of <hi>France</hi> will ſoon be broke by the loſs or failure of our Commerce; but we ſee that our Merchants ſuffer much, and the Cuſtoms more by Diſcontinuance of that Trade.</p>
+            <p>Now, Sir, when Men are wealthy, and ſecurely liberal, Accompts are but a troubleſome thing, and incompatible with Generoſity; but
+<pb n="8" facs="tcp:56228:5" rendition="simple:additions"/>
+when our Eſtates are at a low Ebb, we betake our ſelves naturally to Arithmetick, and conſider what part of the vaſt Bank we have expen<g ref="char:EOLhyphen"/>ded, may be retrieved, and how the laſt ſtake may be beſt employed.</p>
+            <p>All Strictneſs in theſe Publick Acc<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ts would be neceſſary to thoſe who conſider the generality of the laſt <hi>Items,</hi> ſet down in thoſe deli<g ref="char:EOLhyphen"/>vered into Parliament: In which the Disburſements were ſo ſet down, that no Enquiry into them could be made; and a general Account where all ſearch into Particulars is prohibited, can only convince Men of mean Capacity, That all is gone: And though perhaps it ought not to be doubted, but that all the Miniſters of this Government can in their reſpective Stations anſwer any ſuch Charge, and acquit themſelves; yet ſtill an Account is neceſſary, as that which though it ſhould give no Relief to the Bankrupt; yet affords him Sati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>faction.</p>
+            <p>Another thing, Sir, I would hint to you: That Men who pay a Fine uſually expect good Covenants, and that large Taxes have more fre<g ref="char:EOLhyphen"/>quently been the Fountain of good Laws than bad Manners. There is no Law, that can countervail a Home-Exciſe, becauſe in a little time that which is left and ſecured will not be equal to what is ſpent, and a Guard upon an empty Houſe is no proportionable Reward for a full one.</p>
+            <p>
+               <hi>Magna Charta,</hi> and the <hi>Charter</hi> of the <hi>Forreſt</hi> coſt the Nation but <hi>One Fifteenth:</hi> which how inconſiderable a Sum it then was, all An<g ref="char:EOLhyphen"/>tiquaries know; and after a Gift of <hi>Two</hi> and <hi>Twenty Millions,</hi> I am confident we never ſhould have had a Negative given to the Treaſon-Bill, if it had not been artfully loſt by a double Adherence.</p>
+            <p>The Perjury of <hi>Fuller, Young,</hi> and <hi>Blackhead,</hi> is ſuch an horrid Vil<g ref="char:EOLhyphen"/>lany, that not only calls for Vengeance in the Perſons, but obliges us to Enquiry into the Forgers of that Contrivance: For Subornation ſel<g ref="char:EOLhyphen"/>dom wants Accomplices; and we ſhould ſearch into the Prieſt, who lay behind theſe ſpeaking Engines, and inſpired the dull Curtain into falſe Oracles.</p>
+            <p>Sir, I have ſaid more than I deſign'd, and yet not enough for the Matter: What in general I leave with you, is, That you would con<g ref="char:EOLhyphen"/>ſider what you have given, and what you have left. That withal you would think what you give more, and to whom and why, and that you would ſo give, as to leave your ſelf ſtill in a Capacity of giving.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
